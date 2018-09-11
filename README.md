@@ -10,7 +10,7 @@ ArtTreeKS can only run in Linux operating system. So to resolve this problem Win
 VR_Robot_Kinematics_Synthesis/SocketServerC.lua  
 VR_Robot_Kinematics_Synthesis/out_result.lua  
   
-to WSL_directory\home\\<username>\ArtTreeKS-master\examples\.   
+to WSL_directory\home\<username>\ArtTreeKS-master\examples\.   
 Run SocketServerC.lua in a terminal in WSL (lua SocketServerC.lua) to run the server and then in Unity play the game to see the environment and be able to do the kinematics synthesis   .
   
 Packages used in this game are:  
